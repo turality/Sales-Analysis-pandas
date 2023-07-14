@@ -1,3 +1,5 @@
+# Sales-Analysis-pandas
+
 Used pandas to do some analysis on the dataframes. 
 
 mainly the dataframe was about sales over a website. There were 12 csv files representing the sales over the year in each month. I merged the csv files to make it easier
@@ -10,4 +12,3 @@ What products are most often sold together?
 
 
 
-# Sales-Analysis-pandas
